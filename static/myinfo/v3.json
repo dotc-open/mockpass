@@ -45,7 +45,8 @@
         "source": "1",
         "classification": "C",
         "value": "Connie CO Ong"
-      }
+      },
+      "privileges": "All roles for Bn"
     },
     "S3448510J": {
       "mobileno": {
@@ -73,7 +74,8 @@
         "source": "1",
         "classification": "C",
         "value": "Samuel S1 Ong"
-      }
+      },
+      "privileges": "UA/PM for Bn"
     },
     "S5787830D": {
       "mobileno": {
@@ -101,7 +103,8 @@
         "source": "1",
         "classification": "C",
         "value": "Oscar OC-A Chin"
-      }
+      },
+      "privileges": "AC/AR/CC/CA/UA for Coy A"
     },
     "S4433227B": {
       "mobileno": {
@@ -129,7 +132,8 @@
         "source": "1",
         "classification": "C",
         "value": "Clement CSM-A Seng"
-      }
+      },
+      "privileges": "AC/AR/CC/CA/UA for Coy A"
     },
     "S9812379B": {
       "mobileno": {
@@ -157,7 +161,8 @@
         "source": "1",
         "classification": "C",
         "value": "Damien CoyA-PC1 Koh"
-      }
+      },
+      "privileges": "AC/AR/CC for Coy A"
     },
     "S9912370B": {
       "mobileno": {
@@ -185,7 +190,8 @@
         "source": "1",
         "classification": "C",
         "value": "Janelle CoyA-PS1 Ting"
-      }
+      },
+      "privileges": "AC/AR/CC for Pl 1"
     },
     "S8020978I": {
       "mobileno": {
@@ -213,7 +219,8 @@
         "source": "1",
         "classification": "C",
         "value": "Jonathan CoyA-Pl1Trooper1 Qing"
-      }
+      },
+      "privileges": "No roles"
     },
     "S9354000Z": {
       "mobileno": {
@@ -241,7 +248,8 @@
         "source": "1",
         "classification": "C",
         "value": "Jackson CoyA-Pl2Trooper1 Teo"
-      }
+      },
+      "privileges": "No roles"
     },
     "S9812353I": {
       "mobileno": {
@@ -269,7 +277,8 @@
         "source": "1",
         "classification": "C",
         "value": "Zed CoyA-PC2 Chan"
-      }
+      },
+      "privileges": "AC/AR/CC for Coy A"
     },
     "S9912363Z": {
       "mobileno": {
@@ -297,7 +306,8 @@
         "source": "1",
         "classification": "C",
         "value": "Paige CoyA-PS2 Sim"
-      }
+      },
+      "privileges": "AC/AR/CC for Pl 2"
     },
     "S9912374E": {
       "mobileno": {
@@ -325,7 +335,8 @@
         "source": "1",
         "classification": "C",
         "value": "Sherry CoyA-PC3 Chong"
-      }
+      },
+      "privileges": "AC/AR/CC for Coy A"
     },
     "S9812382B": {
       "mobileno": {
@@ -353,7 +364,8 @@
         "source": "1",
         "classification": "C",
         "value": "Andy CoyA-PS3 Tan"
-      }
+      },
+      "privileges": "AC/AR/CC for Pl 3"
     },
     "S6005054F": {
       "mobileno": {
@@ -381,7 +393,8 @@
         "source": "1",
         "classification": "C",
         "value": "Chris CoyA-PC4 Fong"
-      }
+      },
+      "privileges": "AC/AR/CC for Coy A"
     },
     "S9912375C": {
       "mobileno": {
@@ -409,7 +422,8 @@
         "source": "1",
         "classification": "C",
         "value": "Darren CoyA-PS4 Jeong"
-      }
+      },
+      "privileges": "AC/AR/CC for Pl 4"
     },
     "S2437027E": {
       "mobileno": {
@@ -437,7 +451,8 @@
         "source": "1",
         "classification": "C",
         "value": "Olivia OC-B Cho"
-      }
+      },
+      "privileges": "AC/AR/CC/CA/UA for Coy B"
     },
     "S7360714J": {
       "mobileno": {
@@ -465,7 +480,8 @@
         "source": "1",
         "classification": "C",
         "value": "Chris CSM-B Soh"
-      }
+      },
+      "privileges": "AC/AR/CC/CA/UA for Coy B"
     },
     "S9912366D": {
       "mobileno": {
@@ -493,7 +509,8 @@
         "source": "1",
         "classification": "C",
         "value": "Vanessa CoyB-PC5 Johnson"
-      }
+      },
+      "privileges": "AC/AR/CC for Coy B"
     },
     "S9812381D": {
       "mobileno": {
@@ -521,7 +538,8 @@
         "source": "1",
         "classification": "C",
         "value": "Kevin CoyB-PS5 Chen"
-      }
+      },
+      "privileges": "AC/AR/CC for Pl 5"
     },
     "G1612348Q": {
       "mobileno": {
@@ -549,7 +567,8 @@
         "source": "1",
         "classification": "C",
         "value": "Bryan CoyB-PC6 Lim"
-      }
+      },
+      "privileges": "AC/AR/CC for Coy B"
     },
     "S9812390C": {
       "mobileno": {
@@ -577,7 +596,8 @@
         "source": "1",
         "classification": "C",
         "value": "Ryan CoyB-PS6 Chai"
-      }
+      },
+      "privileges": "AC/AR/CC for Pl 6"
     },
     "G1612350T": {
       "mobileno": {
@@ -605,7 +625,8 @@
         "source": "1",
         "classification": "C",
         "value": "Wendy CoyB-PC7 Xia"
-      }
+      },
+      "privileges": "AC/AR/CC for Coy B"
     },
     "S6005053H": {
       "mobileno": {
@@ -633,7 +654,8 @@
         "source": "1",
         "classification": "C",
         "value": "Cherry CoyB-PS7 Chia"
-      }
+      },
+      "privileges": "AC/AR/CC for Pl 7"
     },
     "S9912364H": {
       "mobileno": {
@@ -661,7 +683,8 @@
         "source": "1",
         "classification": "C",
         "value": "Daisy CoyB-PC8 Kong"
-      }
+      },
+      "privileges": "AC/AR/CC for Coy B"
     },
     "S9812346F": {
       "mobileno": {
@@ -689,7 +712,8 @@
         "source": "1",
         "classification": "C",
         "value": "John CoyB-PS8 Teo"
-      }
+      },
+      "privileges": "AC/AR/CC for Pl 8"
     },
     "S2243959F": {
       "mobileno": {
@@ -717,7 +741,8 @@
         "source": "1",
         "classification": "C",
         "value": "Dorian CoyC-PC9 Keng"
-      }
+      },
+      "privileges": "AC/AR/CC for Coy C"
     },
     "S5115778H": {
       "mobileno": {
@@ -745,7 +770,8 @@
         "source": "1",
         "classification": "C",
         "value": "Cecilia Voon"
-      }
+      },
+      "privileges": "No unit, no roles"
     }
   }
 }
