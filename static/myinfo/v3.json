@@ -719,34 +719,6 @@
         "value": "Dorian CoyC-PC9 Keng"
       }
     },
-    "S9912365F": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99876543"
-        }
-      },
-      "uuid": {
-        "lastupdated": "2020-04-16",
-        "source": "1",
-        "classification": "C",
-        "value": "41fb4b1d-1c45-67f1-561e-861279d82423"
-      },
-      "name": {
-        "lastupdated": "2020-04-16",
-        "source": "1",
-        "classification": "C",
-        "value": "Wrong Phone Num"
-      }
-    },
     "S5115778H": {
       "mobileno": {
         "lastupdated": "2020-04-16",
