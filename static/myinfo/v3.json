@@ -77,6 +77,21 @@
       },
       "privileges": "UA/PM for Bn"
     },
+    "S5815189J": {
+      "uuid": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "896a07ac-4c2f-11ef-9454-0242ac120002"
+      },
+      "name": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "Unit HR Admin"
+      },
+      "privileges": "UHA for Bn 1"
+    },
     "S5787830D": {
       "mobileno": {
         "lastupdated": "2020-04-16",
@@ -209,21 +224,6 @@
         "value": "Permission Manager"
       },
       "privileges": "PM for Coy A"
-    },
-    "S5815189J": {
-      "uuid": {
-        "lastupdated": "2020-04-16",
-        "source": "1",
-        "classification": "C",
-        "value": "896a07ac-4c2f-11ef-9454-0242ac120002"
-      },
-      "name": {
-        "lastupdated": "2020-04-16",
-        "source": "1",
-        "classification": "C",
-        "value": "Unit HR Admin"
-      },
-      "privileges": "UHA for Coy A"
     },
     "S9812379B": {
       "mobileno": {
