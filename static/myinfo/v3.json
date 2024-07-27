@@ -20,20 +20,6 @@
   },
   "personas": {
     "S9124995B": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99111111"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -49,20 +35,6 @@
       "privileges": "All roles for Bn"
     },
     "S3448510J": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99111111"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -108,20 +80,6 @@
       "privileges": "App Admin"
     },
     "S5787830D": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99111111"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -137,20 +95,6 @@
       "privileges": "AC/AR/CC/CA/UA for Coy A"
     },
     "S4433227B": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99111111"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -241,20 +185,6 @@
       "privileges": "PM for Coy A"
     },
     "S9812379B": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99111111"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -270,20 +200,6 @@
       "privileges": "AC/AR/CC for Coy A"
     },
     "S9912370B": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99111112"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -299,20 +215,6 @@
       "privileges": "AC/AR/CC for Pl 1"
     },
     "S8020978I": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99876543"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -328,20 +230,6 @@
       "privileges": "No roles"
     },
     "S9354000Z": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99876543"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -357,20 +245,6 @@
       "privileges": "No roles"
     },
     "S9812353I": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99111221"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -386,20 +260,6 @@
       "privileges": "AC/AR/CC for Coy A"
     },
     "S9912363Z": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99111222"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -415,20 +275,6 @@
       "privileges": "AC/AR/CC for Pl 2"
     },
     "S9912374E": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99111331"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -444,20 +290,6 @@
       "privileges": "AC/AR/CC for Coy A"
     },
     "S9812382B": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99111332"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -473,20 +305,6 @@
       "privileges": "AC/AR/CC for Pl 3"
     },
     "S6005054F": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99111441"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -502,20 +320,6 @@
       "privileges": "AC/AR/CC for Coy A"
     },
     "S9912375C": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99111442"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -531,20 +335,6 @@
       "privileges": "AC/AR/CC for Pl 4"
     },
     "S2437027E": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99222111"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -560,20 +350,6 @@
       "privileges": "AC/AR/CC/CA/UA for Coy B"
     },
     "S7360714J": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99222111"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -589,20 +365,6 @@
       "privileges": "AC/AR/CC/CA/UA for Coy B"
     },
     "S9912366D": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99222111"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -618,20 +380,6 @@
       "privileges": "AC/AR/CC for Coy B"
     },
     "S9812381D": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99222112"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -647,20 +395,6 @@
       "privileges": "AC/AR/CC for Pl 5"
     },
     "G1612348Q": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99222221"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -676,20 +410,6 @@
       "privileges": "AC/AR/CC for Coy B"
     },
     "S9812390C": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99222222"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -705,20 +425,6 @@
       "privileges": "AC/AR/CC for Pl 6"
     },
     "G1612350T": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99222331"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -734,20 +440,6 @@
       "privileges": "AC/AR/CC for Coy B"
     },
     "S6005053H": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99222332"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -763,20 +455,6 @@
       "privileges": "AC/AR/CC for Pl 7"
     },
     "S9912364H": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99222441"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -792,20 +470,6 @@
       "privileges": "AC/AR/CC for Coy B"
     },
     "S9812346F": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99222442"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -821,20 +485,6 @@
       "privileges": "AC/AR/CC for Pl 8"
     },
     "S2243959F": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "98111111"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -850,20 +500,6 @@
       "privileges": "AC/AR/CC for Coy C"
     },
     "S6324561E": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "98111111"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
@@ -879,20 +515,6 @@
       "privileges": "Unit HR Admin for Bn 3"
     },
     "S5115778H": {
-      "mobileno": {
-        "lastupdated": "2020-04-16",
-        "source": "2",
-        "classification": "C",
-        "areacode": {
-          "value": "65"
-        },
-        "prefix": {
-          "value": "+"
-        },
-        "nbr": {
-          "value": "99999991"
-        }
-      },
       "uuid": {
         "lastupdated": "2020-04-16",
         "source": "1",
