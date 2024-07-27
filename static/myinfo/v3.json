@@ -92,6 +92,21 @@
       },
       "privileges": "UHA for Bn 1"
     },
+    "S9529472C": {
+      "uuid": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "daf8bec8-4c35-11ef-9454-0242ac120002"
+      },
+      "name": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "App Admin"
+      },
+      "privileges": "App Admin"
+    },
     "S5787830D": {
       "mobileno": {
         "lastupdated": "2020-04-16",
