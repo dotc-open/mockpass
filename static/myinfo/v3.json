@@ -135,6 +135,96 @@
       },
       "privileges": "AC/AR/CC/CA/UA for Coy A"
     },
+    "S0639729H": {
+      "uuid": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "e5711500-4c2e-11ef-9454-0242ac120002"
+      },
+      "name": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "Activity Creator"
+      },
+      "privileges": "AC for Coy A"
+    },
+    "S5259721H": {
+      "uuid": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "16a0ad8e-4c2f-11ef-9454-0242ac120002"
+      },
+      "name": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "Attendance Reporter"
+      },
+      "privileges": "AR for Coy A"
+    },
+    "S2770402F": {
+      "uuid": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "250aee0c-4c2f-11ef-9454-0242ac120002"
+      },
+      "name": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "Currency Checker"
+      },
+      "privileges": "CC for Coy A"
+    },
+    "S1544711G": {
+      "uuid": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "5b57b9ae-4c2f-11ef-9454-0242ac120002"
+      },
+      "name": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "Currency Admin"
+      },
+      "privileges": "CA for Coy A"
+    },
+    "S4821177A": {
+      "uuid": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "498a86e8-4c2f-11ef-9454-0242ac120002"
+      },
+      "name": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "Permission Manager"
+      },
+      "privileges": "PM for Coy A"
+    },
+    "S5815189J": {
+      "uuid": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "896a07ac-4c2f-11ef-9454-0242ac120002"
+      },
+      "name": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "Unit HR Admin"
+      },
+      "privileges": "UHA for Coy A"
+    },
     "S9812379B": {
       "mobileno": {
         "lastupdated": "2020-04-16",
