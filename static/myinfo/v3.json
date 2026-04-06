@@ -19,6 +19,66 @@
     ]
   },
   "personas": {
+    "S6900041Z": {
+      "uuid": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "086370ae-7365-4937-992f-a46cc4739c85"
+      },
+      "name": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "MultiMetrics CO"
+      },
+      "privileges": "All roles for MultiMetrics Unit"
+    },
+    "S6900043F": {
+      "uuid": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "3e55e12b-298a-42bb-bcad-5f06fe73ebd7"
+      },
+      "name": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "HA Coy OC"
+      },
+      "privileges": "AC/AR/CC for MultiMetrics HA Coy"
+    },
+    "S6900015J": {
+      "uuid": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "250ceb7c-8f5e-47d5-bf2e-49a0fa76cab7"
+      },
+      "name": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "Frigate 1 CO"
+      },
+      "privileges": "All roles for Frigate 1"
+    },
+    "S6900017G": {
+      "uuid": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "9be8f97c-78d5-433d-bba3-5fdeb8ec3988"
+      },
+      "name": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "Franklin D1-TL1 Blub"
+      },
+      "privileges": "AC/AR/CC for Team 1"
+    },
     "S9124995B": {
       "uuid": {
         "lastupdated": "2020-04-16",
