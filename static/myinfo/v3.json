@@ -30,9 +30,9 @@
         "lastupdated": "2020-04-16",
         "source": "1",
         "classification": "C",
-        "value": "MultiMetrics CO"
+        "value": "Multimetrics CO"
       },
-      "privileges": "All roles for MultiMetrics Unit"
+      "privileges": "All roles for Multimetrics Unit"
     },
     "S6900043F": {
       "uuid": {
@@ -45,9 +45,9 @@
         "lastupdated": "2020-04-16",
         "source": "1",
         "classification": "C",
-        "value": "HA Coy OC"
+        "value": "Multimetrics A Coy OC"
       },
-      "privileges": "AC/AR/CC for MultiMetrics HA Coy"
+      "privileges": "AC/AR/CC for Multimetrics Coy A"
     },
     "S6900015J": {
       "uuid": {
