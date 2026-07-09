@@ -49,6 +49,36 @@
       },
       "privileges": "AC/AR/CC for Multimetrics Coy A"
     },
+    "S6900055Z": {
+      "uuid": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "0d83a7ab-fc23-41e6-827d-c136ca232e79"
+      },
+      "name": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "Brunter CO"
+      },
+      "privileges": "All roles for Brunter Unit"
+    },
+    "S6900057F": {
+      "uuid": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "8b0dbd3c-43d6-4583-8650-e8dd61db3c64"
+      },
+      "name": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "Brunter A Coy OC"
+      },
+      "privileges": "AC/AR/CC/CA for Brunter Coy A"
+    },
     "S6900015J": {
       "uuid": {
         "lastupdated": "2020-04-16",
